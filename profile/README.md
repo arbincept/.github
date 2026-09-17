@@ -4,7 +4,7 @@
 Welcome to the official GitHub organization of **Arbitrage Inception**, a non-custodial decentralized finance protocol and developer tooling ecosystem engineered primarily for **BNB Smart Chain (BSC)** and EVM environments.
 
 **Live Application:** [https://arbitrage-inc.exchange](https://arbitrage-inc.exchange)  
-**Protocol Analytics:** [DefiLlama](https://defillama.com/protocol/arbitrage-inc) · [Awesome-Web3](https://github.com/ahmet/awesome-web3#open-source-projects)  
+**Protocol Analytics:** [DefiLlama](https://defillama.com/protocol/arbitrage-inc) · [Awesome-Web3](https://github.com/ahmet/awesome-web3/blob/main/README.md#L407)  
 **Community & Updates:** [Telegram](https://t.me/ArbitrageInception) · [X / Twitter (@Arbitrageincept)](https://x.com/Arbitrageincept)
 
 ---
