@@ -1,0 +1,32 @@
+name: "Bug Report"
+description: "File a reproducible bug report to help improve Arbitrage Inception tools"
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for reporting a bug! Please ensure you do not include private keys or sensitive credentials."
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Connect wallet via BNB Chain
+        2. Select Swap pair
+        3. Observe error
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser, OS, device, Node version (if applicable).
+      placeholder: Chrome 134, macOS, Node.js 22
