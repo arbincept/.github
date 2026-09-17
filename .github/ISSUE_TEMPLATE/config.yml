@@ -4,5 +4,5 @@ contact_links:
     url: "https://t.me/ArbitrageInception"
     about: "Ask questions, discuss trading routes, and chat with community members."
   - name: "Security Vulnerability Reporting"
-    url: "mailto:security@arbitrage-inc.exchange"
+    url: "https://github.com/arbincept/Arb-Inc-All-in-Dex/security/advisories/new"
     about: "Report vulnerabilities privately pursuant to our SECURITY.md policy."
