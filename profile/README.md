@@ -26,7 +26,7 @@ Welcome to the official GitHub organization of **Arbitrage Inception**, a non-cu
         <sub>DEX Aggregator & Cross-Chain Terminal</sub>
       </td>
       <td>
-        Production-grade DEX aggregator and Swift cross-chain bridge on BNB Chain. Features sub-second routing, limit orders, PWA client, and real-yield telemetry.
+        Live open-source DEX aggregator and Swift cross-chain bridge on BNB Chain. Features limit orders, a PWA client, and public real-yield telemetry.
       </td>
       <td>
         <a href="https://defillama.com/protocol/arbitrage-inc"><img src="https://img.shields.io/badge/DeFiLlama-Listed-brightgreen" alt="DeFiLlama" /></a><br/>
@@ -79,10 +79,10 @@ Welcome to the official GitHub organization of **Arbitrage Inception**, a non-cu
 
 ## 🛡️ Architecture & Verification Standards
 
-All repositories under **Arbitrage Inception** operate under strict open-source governance:
+Repositories under **Arbitrage Inception** publish open-source governance and security documentation:
 - **Zero Custody:** Smart contract interactions and swaps occur purely non-custodial via verified decentralized routers (KyberSwap Aggregator, Mayan Finance, PancakeSwap).
-- **Automated Security:** Verified with HashDit automated security scanning (**0 issues detected** across all integration checks).
-- **Canonical Metrics:** Adapter volumes, fees, and token tax revenue are continuously tracked and verified on [DefiLlama Dimension Adapters](https://github.com/DefiLlama/dimension-adapters).
+- **Automated Security:** HashDit automated scanning reported no serious issues in the referenced integration checks. This does not replace a manual security audit.
+- **Public Metrics:** Adapter volumes, fees, and token tax revenue are tracked through the public [DefiLlama Dimension Adapters](https://github.com/DefiLlama/dimension-adapters) integration.
 
 ---
 
