@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-Arbitrage Inception maintains production-grade smart contracts, DEX aggregation clients, and telemetry scanners.
+Arbitrage Inception maintains production-grade development, DEX aggregation clients, and telemetry scanners.
 
 | Project | Supported |
 | --- | --- |
