@@ -56,14 +56,14 @@
       </td>
     </tr>
     <tr>
-      <td><b>BSC Arbitrage Scanner</b><br/><sub>High-Throughput Arbitrage Engine</sub></td>
+      <td><b>BSC Arbitrage Scanner</b><br/><sub>Read-Only Arbitrage & Route Scanner</sub></td>
       <td>
-        Asynchronous Python engine simulating multi-hop triangular routing, mempool state updates, GoPlus security checks, and net profitability models across BSC liquidity pools. Dynamic gas and token-tax friction modeling.
+        Python-based read-only route simulation engine on BNB Smart Chain. It consumes live token lists, queries KyberSwap Aggregator routes, checks GoPlus token security and DexScreener liquidity, and models gas, slippage, and token-tax friction before reporting theoretical opportunities.
       </td>
       <td>
         <a href="https://github.com/arbincept/bsc-arbitrage-scanner">GitHub</a> ·
         <a href="https://github.com/arbincept/bsc-arbitrage-scanner/releases/tag/v1.1.0">v1.1.0 Release</a> ·
-        <i>Python 3.11 · AsyncIO · KyberSwap API</i>
+        <i>Python 3.12 · requests · KyberSwap API</i>
       </td>
     </tr>
     <tr>
