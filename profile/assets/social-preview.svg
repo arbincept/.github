@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Arbitrage Inception — by Lukecele</title>
+  <desc id="description">Open-source on-chain tools by Lukecele. Swaps, on-chain data and DeFi research. github.com/arbincept</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1627"/>
+      <stop offset="1" stop-color="#142B35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="1208" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3C969"/>
+      <stop offset="1" stop-color="#70E0CF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#background)"/>
+  <rect x="72" y="64" width="1136" height="4" rx="2" fill="url(#accent)"/>
+  <g stroke="#70E0CF" stroke-opacity="0.2" stroke-width="2">
+    <path d="M1008 198 1096 248 1184 198M1008 198V300L1096 350 1184 300V198L1096 148 1008 198Z"/>
+    <path d="M1096 248V350M1052 223V274L1096 300 1140 274V223M1008 300 1096 248 1184 300"/>
+  </g>
+  <circle cx="1096" cy="248" r="7" fill="#70E0CF"/>
+  <circle cx="1008" cy="198" r="5" fill="#F3C969"/>
+  <circle cx="1184" cy="300" r="5" fill="#F3C969"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="130" fill="#F3C969" font-size="27" font-weight="700" letter-spacing="3">ARBITRAGE INCEPTION</text>
+    <text x="72" y="244" fill="#F4F7FB" font-size="72" font-weight="700">Open-source</text>
+    <text x="72" y="328" fill="#F4F7FB" font-size="72" font-weight="700">on-chain tools</text>
+    <text x="72" y="406" fill="#B7C8D7" font-size="30">Swaps · On-chain data · DeFi research</text>
+    <text x="72" y="508" fill="#70E0CF" font-size="44" font-weight="700">by Lukecele</text>
+    <text x="72" y="558" fill="#B7C8D7" font-size="25">Luca Celebrano · Founder &amp; builder</text>
+    <text x="1208" y="558" text-anchor="end" fill="#B7C8D7" font-size="25">github.com/arbincept</text>
+  </g>
+</svg>
