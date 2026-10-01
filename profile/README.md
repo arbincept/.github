@@ -54,7 +54,7 @@ Explore working interfaces, read the source, or build on the parts you need. The
 
 ### [RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage)
 
-**Research tokenized stock pricing.** Explore market-hours price divergence and spreads between tokenized equity wrappers on BNB Chain. Includes a local MCP server for agent integration.
+**Research tokenized stock pricing.** Explore market-hours price divergence and spreads between tokenized equity wrappers on BNB Chain. Includes an experimental stdio adapter; the MCP initialization handshake is not yet implemented, and full client compatibility remains unverified.
 
 `React` `TypeScript` `MCP`
 
