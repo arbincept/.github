@@ -34,7 +34,7 @@ Explore working interfaces, read the source, or build on the parts you need. The
 
 `React` `Node.js` `Docker`
 
-[Open scanner](https://lucace-inception-flap-scanner.hf.space) · [Source & ⭐ star](https://github.com/arbincept/inception-flap-scanner)
+[Open scanner](https://inception-flap-scanner.onrender.com) · [Source & ⭐ star](https://github.com/arbincept/inception-flap-scanner)
 
 ### [BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)
 
@@ -79,10 +79,10 @@ Arbitrage Inception is his independent open-source organization. His work connec
 
 Luca also contributes upstream. Selected **merged pull requests authored by @Lukecele**:
 
-- **nf-core/modules** — ABRA2 BAI output pattern and snapshot fix: [#13039](https://github.com/nf-core/modules/pull/13039).
+- **nf-core/modules** — GATK4 PostprocessGermlineCNVCalls output extension fix ([#13080](https://github.com/nf-core/modules/pull/13080)) and ABRA2 BAI snapshot fix ([#13039](https://github.com/nf-core/modules/pull/13039)).
 - **Angular** — DevTools signal watch controls gated on host support: [#70986](https://github.com/angular/angular/pull/70986).
 - **viem** — Plasma token addresses and Kortana chain support: [#5108](https://github.com/wevm/viem/pull/5108), [#5136](https://github.com/wevm/viem/pull/5136).
-- **DefiLlama** — Arbitrage Inc fee adapters and metrics: [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453).
+- **DefiLlama** — Arbitrage Inc fee adapters, BSC tax accounting & metrics: [#9838](https://github.com/DefiLlama/dimension-adapters/pull/9838), [#9453](https://github.com/DefiLlama/dimension-adapters/pull/9453), [#6279](https://github.com/DefiLlama/dimension-adapters/pull/6279), [#6275](https://github.com/DefiLlama/dimension-adapters/pull/6275).
 - **Ethereum Lists** — Sonic RPC endpoint additions: [#8730](https://github.com/ethereum-lists/chains/pull/8730).
 
 **Discoverability:** All-in-Dex and Inception Flap Scanner are included in Awesome-Web3 through merged submissions [#796](https://github.com/ahmet/awesome-web3/pull/796) and [#795](https://github.com/ahmet/awesome-web3/pull/795).
