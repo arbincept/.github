@@ -34,7 +34,7 @@ Explore working interfaces, read the source, or build on the parts you need. The
 
 `React` `Node.js` `Docker`
 
-[Open scanner](https://inception-flap-scanner.onrender.com) · [Source & ⭐ star](https://github.com/arbincept/inception-flap-scanner)
+[Open scanner](https://lucace-inception-flap-scanner.hf.space) · [Source & ⭐ star](https://github.com/arbincept/inception-flap-scanner)
 
 ### [BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner)
 
@@ -70,7 +70,7 @@ Explore working interfaces, read the source, or build on the parts you need. The
 
 ### [Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)
 
-**Quantitative tokenomics and DEX liquidity research.** An institutional research baseline for Solana DEX liquidity modeling, holder distribution heuristics, Python backtesting, and real-time risk scoring.
+**Quantitative tokenomics and DEX liquidity research.** An experimental research baseline for Solana DEX liquidity modeling, holder distribution heuristics, Python backtesting, and real-time risk scoring.
 
 `Python` `Solana DEX` `Tokenomics` `Quantitative Modeling`
 
