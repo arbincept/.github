@@ -60,6 +60,14 @@ Explore working interfaces, read the source, or build on the parts you need. The
 
 [Open dashboard](https://rwa-stock-arbitrage.vercel.app) · [Source & ⭐ star](https://github.com/arbincept/rwa-stock-arbitrage)
 
+### [Telegram Buy & Sell Tracker](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)
+
+**Monitor on-chain DEX swaps and liquidity.** Real-time liquidity pool monitoring and automated Telegram alert bot with a responsive React control dashboard.
+
+`TypeScript` `React` `Telegram API` `BSC`
+
+[Telegram bot](https://t.me/ArbincMoon_bot) · [Source & ⭐ star](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)
+
 ## Meet the builder
 
 **[Luca Celebrano (@Lukecele)](https://github.com/Lukecele)** is a medical student and software builder based in Naples, Italy: an MD candidate at **Università degli Studi di Napoli Federico II**, working on an experimental bioinformatics thesis at **TIGEM**.
@@ -68,7 +76,7 @@ Arbitrage Inception is his independent open-source organization. His work connec
 
 | Project | What you can explore |
 | :--- | :--- |
-| **[DEX Swap Tracker & Telegram Bot](https://github.com/Lukecele/Telegram-bsc-buy-sell-bot)** | Liquidity-pool monitoring, Telegram alerts, and a React dashboard. |
+| **[MedTerminal Cardio-Toracico](https://github.com/Lukecele/cardio-thoracic-medterminal)** | Multimodal medical workstation with 3D WebGL anatomy (Three.js), ECG telemetry, and auscultation sound libraries. |
 | **[Virtue](https://github.com/Lukecele/virtue)** | A rule-based conversational engine and crypto calculator with live market data. |
 | **[ARBVPN](https://github.com/Lukecele/ARBVPN)** | A React Native WireGuard client for Android; bring your own server and keys. |
 | **[Meme Intelligence On-Chain](https://github.com/Lukecele/meme-intelligence-onchain)** | An experimental Solana research baseline for wallet clustering and liquidity analysis; requires API access and data ingestion. |
