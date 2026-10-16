@@ -16,6 +16,7 @@ GitHub displays **[profile/README.md](profile/README.md)** on the [arbincept org
 - [Arbitrage Inc Earn](https://github.com/arbincept/arbitrage-inc-earn) — BNB Chain lending and liquid staking interfaces.
 - [RWA Stock Arbitrage Suite](https://github.com/arbincept/rwa-stock-arbitrage) — tokenized stock research with an experimental stdio adapter; full MCP-client compatibility remains unverified.
 - [Telegram Buy & Sell Tracker](https://github.com/arbincept/Telegram-bsc-buy-sell-bot) — real-time DEX liquidity pool monitoring and Telegram alert bot with React dashboard.
+- [Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain) — institutional quantitative research baseline for Solana DEX and tokenomics modeling.
 
 Visit a project's README for setup, limitations and its license. Star the tools you find useful and follow Luca for future builds.
 

@@ -68,18 +68,26 @@ Explore working interfaces, read the source, or build on the parts you need. The
 
 [Telegram bot](https://t.me/ArbincMoon_bot) · [Source & ⭐ star](https://github.com/arbincept/Telegram-bsc-buy-sell-bot)
 
+### [Meme Intelligence On-Chain](https://github.com/arbincept/meme-intelligence-onchain)
+
+**Quantitative tokenomics and DEX liquidity research.** An institutional research baseline for Solana DEX liquidity modeling, holder distribution heuristics, Python backtesting, and real-time risk scoring.
+
+`Python` `Solana DEX` `Tokenomics` `Quantitative Modeling`
+
+[Source, backtesting & ⭐ star](https://github.com/arbincept/meme-intelligence-onchain)
+
 ## Meet the builder
 
 **[Luca Celebrano (@Lukecele)](https://github.com/Lukecele)** is a medical student and software builder based in Naples, Italy: an MD candidate at **Università degli Studi di Napoli Federico II**, working on an experimental bioinformatics thesis at **TIGEM**.
 
-Arbitrage Inception is his independent open-source organization. His work connects bioinformatics, on-chain systems, and practical developer tools — with more experiments on his personal GitHub:
+Arbitrage Inception is his independent open-source organization. His work connects bioinformatics, clinical technology, and developer tools — with more experiments on his personal GitHub:
 
 | Project | What you can explore |
 | :--- | :--- |
 | **[MedTerminal Cardio-Toracico](https://github.com/Lukecele/cardio-thoracic-medterminal)** | Multimodal medical workstation with 3D WebGL anatomy (Three.js), ECG telemetry, and auscultation sound libraries. |
-| **[Virtue](https://github.com/Lukecele/virtue)** | A rule-based conversational engine and crypto calculator with live market data. |
 | **[ARBVPN](https://github.com/Lukecele/ARBVPN)** | A React Native WireGuard client for Android; bring your own server and keys. |
-| **[Meme Intelligence On-Chain](https://github.com/Lukecele/meme-intelligence-onchain)** | An experimental Solana research baseline for wallet clustering and liquidity analysis; requires API access and data ingestion. |
+| **[Virtue](https://github.com/Lukecele/virtue)** | A rule-based conversational NLP engine and calculation framework in React 19. |
+| **[Vegeta & Motivational PWAs](https://github.com/Lukecele/vegeta-site)** | Progressive Web Applications with interactive Web Audio synthesis and responsive layouts. |
 
 **[Follow Lukecele for future builds](https://github.com/Lukecele)** · [Browse his repositories](https://github.com/Lukecele?tab=repositories)
 
